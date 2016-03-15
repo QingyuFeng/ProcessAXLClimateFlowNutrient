@@ -1,0 +1,2 @@
+perl column-transfer_feng.pl -i hru04_list.txt.txt,5,6 -r drain04_statsgo_ssurgo_keyidlevel.txt,1,2 > test.txt
+perl column-transfer_feng.pl -i hru04_list.txt.txt,5,6 -r drain04_statsgo_ssurgo_keyidlevel.txt,1,2 > test.txt
